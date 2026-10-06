@@ -1,0 +1,16 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+.vs/
+.idea/
+.env
+.env.*
+*.csproj
+*.sln
+*.slnx
+*.apk
+*.exe
